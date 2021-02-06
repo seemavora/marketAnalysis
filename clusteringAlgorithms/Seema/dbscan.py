@@ -23,4 +23,4 @@ core_samples[dbsc.core_sample_indices_] = True
 
 cmap = cm.get_cmap('Accent')
 data = pd.DataFrame(data, columns= ['personal_qualities','friend_qualities'])
-data.plot.scatter(x = 'personal_qualities',y = 'friend_qualities', cmap= cmap, colorbar = False)
+data.plot.scatter(x = 'personal_qualities',y = 'friend_qualities', c= dbsc, cmap= cmap, colorbar = False)    
