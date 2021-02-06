@@ -63,6 +63,8 @@ def compute_clusters(data: List) -> np.ndarray:
 	birch.fit(data)
 	predictions = np.array(birch.predict(data))
 	print("Donee")
+	print("predictions" ,predictions)
+
 	return predictions
 
 df = pd.read_csv("oneEncodedDiscord.csv")
@@ -130,12 +132,14 @@ def show_data_corelation(data=None, csv_file_name=None):
 
 def main(args) -> None:
 	data = load_data("oneEncodedDiscord.csv")
+	print("data", data)
 	filtered_data = np.array([[item[3], item[4]] for item in data])
 
 	data_set = None #Alternative data loaded using pandas
 	# data_set = show_data_corelation(csv_file_name="oneEncodedDiscord.csv")
 
 	filtered_data = np.array(filtered_data).astype(np.float64)
+	print(filtered_data)
 	labels = compute_clusters(filtered_data) 
 	show_results(filtered_data, labels, args.plot_handler)
 
