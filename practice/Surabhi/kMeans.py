@@ -31,6 +31,7 @@ def elbowMethod (min, max):
     plt.ylabel('Average distortion')
     plt.title('Selecting k using Elbow method')
     plt.show()
-    
 
-elbowMethod(1,10)
+def silhouetteCo ():
+      
+
