@@ -5,7 +5,7 @@ import seaborn as sns
 from sklearn.cluster import KMeans
 from mpl_toolkits.mplot3d import Axes3D
 
-df = pd.read_csv("oneEncodedDiscord.csv")
+df = pd.read_csv('../../data/cleanData/oneEncodedDiscord.csv')
 X = df[["personal_qualities","friend_qualities"]]
 
 # ~~~~~ Number of clusters ~~~~~
