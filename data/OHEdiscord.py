@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np 
 from sklearn.preprocessing import LabelEncoder
 
 data = pd.read_csv('rawData/modifiedDiscord.csv')
@@ -10,3 +11,4 @@ for i in range (len(conditions)):
   data[conditions[i]] = le.fit_transform(data[conditions[i]])
 
 data.to_csv('cleanData/oneEncodedDiscord.csv')
+
