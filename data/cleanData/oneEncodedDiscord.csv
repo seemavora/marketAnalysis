@@ -1,39 +1,39 @@
 ,major_department,year,music_genre,living,humour,friend_qualities,personal_qualities,sports,friday_night,school_balance,entertainment_genre
-0,1,4,9,0,3,19,30,1,2,0,2
-1,2,4,6,0,0,17,25,0,0,0,1
-2,1,4,6,0,3,1,7,0,1,1,7
-3,1,4,3,0,1,12,20,0,2,1,5
-4,1,4,1,0,1,22,10,1,3,1,1
-5,1,3,1,0,1,2,5,0,2,1,3
-6,2,4,1,0,2,3,2,1,2,0,5
-7,1,3,6,0,3,9,9,1,0,1,8
-8,2,4,4,0,3,9,21,0,2,0,1
-9,0,4,4,0,1,15,0,1,0,0,2
-10,1,2,1,0,3,4,26,0,1,0,2
-11,0,1,9,0,1,18,19,1,1,0,6
-12,1,0,10,0,3,8,23,0,2,0,8
-13,1,2,8,0,0,10,8,0,1,1,0
-14,2,3,1,0,3,15,17,1,0,0,1
-15,1,4,6,0,3,6,4,1,2,0,0
-16,1,4,11,0,2,12,12,1,2,2,6
-17,2,3,7,0,3,18,15,0,1,1,2
-18,1,4,6,0,3,23,27,0,1,0,2
-19,2,4,5,0,3,24,1,0,2,0,8
-20,1,1,6,0,3,14,19,1,0,0,4
-21,1,2,1,0,2,7,29,0,2,2,1
-22,1,4,6,0,0,13,22,0,0,0,2
-23,1,4,9,0,1,20,16,1,2,0,2
-24,1,4,0,0,1,0,13,1,2,0,1
-25,1,4,5,0,1,25,28,0,1,1,1
-26,1,4,6,0,3,20,6,0,1,0,8
-27,1,4,6,0,3,20,6,0,1,0,8
-28,1,4,6,0,3,20,6,0,1,0,8
-29,2,4,10,0,3,21,14,1,1,0,1
-30,2,2,4,0,0,15,24,0,2,0,1
-31,1,2,6,0,3,16,24,0,0,2,2
-32,1,3,1,0,1,11,21,1,0,0,1
-33,2,4,6,0,3,26,0,0,0,0,4
-34,1,1,2,0,3,5,3,1,3,1,3
-35,1,2,6,1,0,24,11,0,0,0,1
-36,1,4,6,0,4,20,16,0,2,0,4
-37,1,1,4,0,3,16,18,1,2,1,0
+0,1,4,9,0,3,"Trustworthy, Social Intelligence, Humour","Understanding, Supportive, Loyalty",1,2,0,2
+1,2,4,6,0,0,"Trustworthy, Kindness, Loyalty","Trustworthy, Kindness, Loyalty",0,0,0,1
+2,1,4,6,0,3,"Ambition, Kindness, Understanding","Ambition, Kindness, Leadership",0,1,1,7
+3,1,4,3,0,1,"Kindness, Understanding, Supportive","Kindness, Understanding, Social Intelligence",0,2,1,5
+4,1,4,1,0,1,"Trustworthy, Understanding, Humour","Ambition, Supportive, Loyalty",1,3,1,1
+5,1,3,1,0,1,"Ambition, Trustworthy, Humour","Ambition, Humour, Loyalty",0,2,1,3
+6,2,4,1,0,2,"Ambition, Trustworthy, Supportive","Ambition, Fairness, Supportive",1,2,0,5
+7,1,3,6,0,3,"Kindness, Supportive, Humour","Ambition, Leadership, Social Intelligence",1,0,1,8
+8,2,4,4,0,3,"Kindness, Supportive, Humour","Kindness, Understanding, Supportive",0,2,0,1
+9,0,4,4,0,1,"Trustworthy, Humour, Loyalty","Ambition, Fairness, Humour",1,0,0,2
+10,1,2,1,0,3,"Ambition, Understanding, Humour","Trustworthy, Understanding, Humour",0,1,0,2
+11,0,1,9,0,1,"Trustworthy, Kindness, Supportive","Kindness, Supportive, Loyalty",1,1,0,6
+12,1,0,10,0,3,"Kindness, Social Intelligence, Humour","Social Intelligence, Humour, Loyalty",0,2,0,8
+13,1,2,8,0,0,"Kindness, Supportive, Social Intelligence","Ambition, Kindness, Supportive",0,1,1,0
+14,2,3,1,0,3,"Trustworthy, Humour, Loyalty","Kindness, Humour, Loyalty",1,0,0,1
+15,1,4,6,0,3,"Fairness, Trustworthy, Loyalty","Ambition, Fairness, Understanding",1,2,0,0
+16,1,4,11,0,2,"Kindness, Understanding, Supportive","Ambition, Understanding, Loyalty",1,2,2,6
+17,2,3,7,0,3,"Trustworthy, Kindness, Supportive","Fairness, Kindness, Understanding",0,1,1,2
+18,1,4,6,0,3,"Trustworthy, Understanding, Loyalty","Trustworthy, Understanding, Loyalty",0,1,0,2
+19,2,4,5,0,3,"Trustworthy, Understanding, Social Intelligence","Ambition, Fairness, Kindness",0,2,0,8
+20,1,1,6,0,3,"Trustworthy, Humour","Kindness, Supportive, Loyalty",1,0,0,4
+21,1,2,1,0,2,"Fairness, Understanding, Supportive","Understanding, Supportive, Humour",0,2,2,1
+22,1,4,6,0,0,"Leadership, Social Intelligence, Humour","Leadership, Social Intelligence, Humour",0,0,0,2
+23,1,4,9,0,1,"Trustworthy, Supportive, Humour","Fairness, Understanding, Humour",1,2,0,2
+24,1,4,0,0,1,"Ambition, Kindness, Supportive","Ambition, Understanding, Social Intelligence",1,2,0,1
+25,1,4,5,0,1,"Understanding, Humour, Loyalty","Understanding, Humour, Loyalty",0,1,1,1
+26,1,4,6,0,3,"Trustworthy, Supportive, Humour","Ambition, Kindness, Humour",0,1,0,8
+27,1,4,6,0,3,"Trustworthy, Supportive, Humour","Ambition, Kindness, Humour",0,1,0,8
+28,1,4,6,0,3,"Trustworthy, Supportive, Humour","Ambition, Kindness, Humour",0,1,0,8
+29,2,4,10,0,3,"Trustworthy, Supportive, Loyalty","Fairness, Kindness, Loyalty",1,1,0,1
+30,2,2,4,0,0,"Trustworthy, Humour, Loyalty","Trustworthy, Humour, Loyalty",0,2,0,1
+31,1,2,6,0,3,"Trustworthy, Kindness, Humour","Trustworthy, Humour, Loyalty",0,0,2,2
+32,1,3,1,0,1,"Kindness, Understanding, Loyalty","Kindness, Understanding, Supportive",1,0,0,1
+33,2,4,6,0,3,"Understanding, Social Intelligence, Humour","Ambition, Fairness, Humour",0,0,0,4
+34,1,1,2,0,3,"Fairness, Trustworthy, Kindness, Social Intelligence, Loyalty","Ambition, Fairness, Trustworthy, Kindness, Understanding, Supportive, Leadership, Social Intelligence, Humour, Loyalty",1,3,1,3
+35,1,2,6,1,0,"Trustworthy, Understanding, Social Intelligence","Ambition, Supportive, Social Intelligence",0,0,0,1
+36,1,4,6,0,4,"Trustworthy, Supportive, Humour","Fairness, Understanding, Humour",0,2,0,4
+37,1,1,4,0,3,"Trustworthy, Kindness, Humour","Kindness, Supportive, Humour",1,2,1,0
