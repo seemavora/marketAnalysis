@@ -7,6 +7,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 df = pd.read_csv('../../data/cleanData/oneEncodedDiscord.csv')
 X = df[["personal_qualities", "friend_qualities"]]
 
@@ -17,11 +18,17 @@ df = pd.read_csv("oneEncodedDiscord.csv")
 =======
 df = pd.read_csv('../../data/cleanData/oneEncodedDiscord.csv')
 >>>>>>> Changes
+=======
+df = pd.read_csv("oneEncodedDiscord.csv")
+>>>>>>> Changes
 X = df[["personal_qualities","friend_qualities"]]
 
 # ~~~~~ Number of clusters ~~~~~
 K=3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Changes
+=======
 >>>>>>> Changes
 =======
 >>>>>>> Changes
@@ -36,9 +43,14 @@ Centroids = (X.sample(n=K))
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 plt.scatter(X["personal_qualities"], X["friend_qualities"], c='black')
 plt.scatter(Centroids["personal_qualities"],
             Centroids["friend_qualities"], c='red')
+=======
+plt.scatter(X["personal_qualities"],X["friend_qualities"],c='black')
+plt.scatter(Centroids["personal_qualities"],Centroids["friend_qualities"],c='red')
+>>>>>>> Changes
 =======
 plt.scatter(X["personal_qualities"],X["friend_qualities"],c='black')
 plt.scatter(Centroids["personal_qualities"],Centroids["friend_qualities"],c='red')
@@ -52,6 +64,7 @@ plt.xlabel('personal_qualities')
 plt.ylabel('friend_qualities')
 plt.show()
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -136,6 +149,9 @@ while(diff != 0):
 # ~~~~~ Create clusters based on the random centroids ~~~~~
 =======
 >>>>>>> Changes
+=======
+# ~~~~~ Create clusters based on the random centroids ~~~~~
+>>>>>>> Changes
 diff = 1
 j=0
 
@@ -153,6 +169,7 @@ while(diff!=0):
         i=i+1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ~~~~~ Recompute centroids for more accurate clustering ~~~~~
 >>>>>>> Changes
 =======
@@ -165,10 +182,14 @@ while(diff!=0):
 # ~~~~~ Recompute centroids for more accurate clustering ~~~~~
 >>>>>>> Elbow method
 >>>>>>> Changes
+=======
+# ~~~~~ Recompute centroids for more accurate clustering ~~~~~
+>>>>>>> Changes
     C=[]
     for index,row in X.iterrows():
         min_dist=row[1]
         pos=1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> Elbow method
@@ -282,6 +303,8 @@ color=['mediumvioletred','lightseagreen','lightskyblue', 'mediumslateblue', 'gol
 =======
 >>>>>>> Changes
 =======
+=======
+>>>>>>> Changes
         for i in range(K):
             if row[i+1] < min_dist:
                 min_dist = row[i+1]
@@ -301,6 +324,9 @@ color=['mediumvioletred','lightseagreen','lightskyblue', 'mediumslateblue', 'gol
 # ~~~~~ Final cluster ~~~~~
 # Once diff is 0, we stop training and have the final cluters
 color=['mediumvioletred','lightseagreen','lightskyblue', 'mediumslateblue', 'gold']
+<<<<<<< HEAD
+>>>>>>> Changes
+=======
 >>>>>>> Changes
 =======
 >>>>>>> Changes
@@ -308,6 +334,7 @@ for k in range(K):
     data=X[X["Cluster"]==k+1]
     plt.scatter(data["personal_qualities"],data["friend_qualities"],c=color[k])
 plt.scatter(Centroids["personal_qualities"],Centroids["friend_qualities"],c='red')
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -342,6 +369,12 @@ plt.ylabel('friend_qualities')
 plt.show()
 >>>>>>> Changes
 =======
+plt.xlabel('personal_qualities')
+plt.ylabel('friend_qualities')
+plt.show()
+>>>>>>> Changes
+=======
+plt.title('CLUSTERED GRAPH')
 plt.xlabel('personal_qualities')
 plt.ylabel('friend_qualities')
 plt.show()
