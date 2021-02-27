@@ -4,7 +4,9 @@ from matplotlib import pyplot as plt
 from sklearn.cluster import KMeans
 from scipy.spatial.distance import cdist
 
-data = pd.read_csv('oneEncodedDiscord.csv')
+# data = pd.read_csv('oneEncodedDiscord.csv')
+data = pd.read_csv('../../data/rawData/modifiedDiscord.csv')
+print(f"Variable:                  Type: \n{data.dtypes}") 
 
 f1 = data['personal_qualities'].values
 f2 = data['friend_qualities'].values
@@ -33,4 +35,4 @@ def elbowMethod (min, max):
     plt.show()
     
 
-elbowMethod(1,10)
+# elbowMethod(1,10)
