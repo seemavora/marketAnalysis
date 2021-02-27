@@ -26,7 +26,10 @@ plt.xlabel('personal_qualities')
 plt.ylabel('friend_qualities')
 plt.show()
 
+<<<<<<< HEAD
 # ~~~~~ Create clusters based on the random centroids ~~~~~
+=======
+>>>>>>> Does Kmeans for personal and friends qualities
 diff = 1
 j=0
 
@@ -43,7 +46,10 @@ while(diff!=0):
         X[i]=ED
         i=i+1
 
+<<<<<<< HEAD
 # ~~~~~ Recompute centroids for more accurate clustering ~~~~~
+=======
+>>>>>>> Does Kmeans for personal and friends qualities
     C=[]
     for index,row in X.iterrows():
         min_dist=row[1]
@@ -59,19 +65,29 @@ while(diff!=0):
         diff=1
         j=j+1
     else:
+<<<<<<< HEAD
         # The difference between centroids
+=======
+>>>>>>> Does Kmeans for personal and friends qualities
         diff = (Centroids_new['friend_qualities'] - Centroids['friend_qualities']).sum() + (Centroids_new['personal_qualities'] - Centroids['personal_qualities']).sum()
         print(diff.sum())
     Centroids = X.groupby(["Cluster"]).mean()[["friend_qualities","personal_qualities"]]
 
+<<<<<<< HEAD
 # ~~~~~ Final cluster ~~~~~
 # Once diff is 0, we stop training and have the final cluters
 color=['mediumvioletred','lightseagreen','lightskyblue', 'mediumslateblue', 'gold']
+=======
+color=['blue','green','cyan', 'purple', 'black']
+>>>>>>> Does Kmeans for personal and friends qualities
 for k in range(K):
     data=X[X["Cluster"]==k+1]
     plt.scatter(data["personal_qualities"],data["friend_qualities"],c=color[k])
 plt.scatter(Centroids["personal_qualities"],Centroids["friend_qualities"],c='red')
+<<<<<<< HEAD
 plt.title('CLUSTERED GRAPH')
+=======
+>>>>>>> Does Kmeans for personal and friends qualities
 plt.xlabel('personal_qualities')
 plt.ylabel('friend_qualities')
 plt.show()
