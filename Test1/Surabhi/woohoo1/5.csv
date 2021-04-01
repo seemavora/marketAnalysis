@@ -1,5 +1,48 @@
 ,Unnamed: 0,Bios,Year,Major_Dept,Ambition,Goals,Music,Sports,Friday_Nights,School_balance,Movie_Genres,Social_Style,Transfer,cluster #
-9,9,"pop culture, friendly geek, weed",2,5,2,2,2,8,2,1,3,1,1,5
-24,24,"Looking for a roommate, football",4,5,1,2,1,4,2,1,2,3,1,5
-26,26,will be a CEO one day!,2,3,3,2,8,1,2,2,5,3,1,5
-28,28,Kinda shy but will open up hehe,3,3,2,2,7,4,2,1,3,3,1,5
+9,9,Bacon advocate. Troublemaker. Avid social media enthusiast. Pop culture expert. Extreme creator.,2,5,2,2,2,8,2,1,3,1,1,5
+24,24,Bacon advocate. Troublemaker. Avid social media enthusiast. Pop culture expert. Extreme creator.,4,5,1,2,1,4,2,1,2,3,1,5
+26,26,Friendly beer buff. Entrepreneur. Analyst. Introvert. Proud coffee maven. Passionate alcohol evangelist. Typical writer.,2,3,3,2,8,1,2,2,5,3,1,5
+28,28,Evil social media lover. Student. Amateur thinker. Typical reader. Web enthusiast. General pop culture scholar.,3,3,2,2,7,4,2,1,3,3,1,5
+31,31,Pop culture ninja. Entrepreneur. Professional writer. Creator. Food guru. Thinker. Evil beer lover. Devoted organizer. Coffee fanatic.,1,3,2,2,4,1,2,1,2,2,1,5
+35,35,Friendly problem solver. Troublemaker. Subtly charming social media guru. Twitter buff.,4,1,1,2,3,5,2,2,3,1,1,5
+45,45,Beer geek. Unapologetic zombie ninja. Award-winning music enthusiast. Bacon fanatic.,2,1,3,2,6,2,2,2,9,1,1,5
+58,58,Evil social media lover. Student. Amateur thinker. Typical reader. Web enthusiast. General pop culture scholar.,3,6,2,2,7,6,2,3,7,1,1,5
+61,61,Pop culture ninja. Entrepreneur. Professional writer. Creator. Food guru. Thinker. Evil beer lover. Devoted organizer. Coffee fanatic.,2,7,3,2,8,4,2,1,8,2,1,5
+62,62,Avid coffee geek. Hipster-friendly twitter guru. Falls down a lot. Amateur zombie fan.,2,2,1,2,8,9,2,3,7,1,1,5
+63,63,Prone to fits of apathy. Falls down a lot. Bacon geek. Devoted twitter ninja. Proud music expert. Avid coffee practitioner. Pop culture specialist.,1,3,2,2,7,3,2,2,6,2,1,5
+70,70,Pop culture trailblazer. Coffee maven. Award-winning beer specialist. Proud organizer.,4,8,3,2,8,6,2,3,11,2,1,5
+112,112,Problem solver. Avid music buff. Beer trailblazer. Explorer. Entrepreneur.,1,8,1,2,4,4,2,3,5,2,1,5
+119,119,Troublemaker. Avid travel maven. Subtly charming alcohol practitioner. Music fanatic.,3,3,3,2,6,5,2,2,11,1,1,5
+146,146,Friendly beer buff. Entrepreneur. Analyst. Introvert. Proud coffee maven. Passionate alcohol evangelist. Typical writer.,2,8,3,2,7,5,2,1,1,1,1,5
+148,148,Evil social media lover. Student. Amateur thinker. Typical reader. Web enthusiast. General pop culture scholar.,4,5,3,2,2,5,2,3,8,3,1,5
+187,187,Problem solver. Avid music buff. Beer trailblazer. Explorer. Entrepreneur.,3,7,3,2,9,10,2,3,5,1,1,5
+191,191,Friendly beer buff. Entrepreneur. Analyst. Introvert. Proud coffee maven. Passionate alcohol evangelist. Typical writer.,1,3,2,2,1,5,2,3,3,1,1,5
+202,202,Problem solver. Avid music buff. Beer trailblazer. Explorer. Entrepreneur.,4,6,3,2,2,6,2,2,11,2,1,5
+208,208,Evil social media lover. Student. Amateur thinker. Typical reader. Web enthusiast. General pop culture scholar.,1,2,2,2,7,10,2,2,5,3,1,5
+211,211,Proud bacon ninja. Communicator. Hipster-friendly food evangelist. Friendly entrepreneur. Professional troublemaker.,2,4,1,2,1,7,2,1,3,2,1,5
+216,216,Professional travel expert. Problem solver. Reader. Food maven. Troublemaker. Entrepreneur. Tv lover. Explorer.,1,8,2,2,7,3,2,2,2,2,1,5
+218,218,Typical travel aficionado. Extreme alcohol evangelist. Unapologetic organizer. Zombieaholic.,1,4,2,2,6,3,2,3,6,3,1,5
+219,219,Organizer. Tvaholic. Explorer. Proud communicator. Wannabe travel geek. Troublemaker. Web guru. Typical coffee ninja.,4,8,2,2,8,9,2,2,3,2,1,5
+221,221,Amateur social media maven. Pop cultureaholic. Troublemaker. Internet evangelist. Typical bacon ninja. Communicator. Zombie aficionado.,3,6,1,2,2,5,2,3,3,2,1,5
+232,232,Student. Hipster-friendly travel fanatic. Zombie guru. Internet geek. Alcohol practitioner.,4,4,2,2,3,8,2,1,3,1,1,5
+242,242,Avid web specialist. Lifelong zombie fan. Tv trailblazer. Social media enthusiast. Internet practitioner. Proud twitter advocate. Travel aficionado.,2,6,1,2,6,4,2,2,7,2,1,5
+250,250,Extreme coffee enthusiast. Lifelong alcohol guru. Total internet evangelist. Gamer.,4,4,3,2,6,8,2,3,9,2,1,5
+256,256,Proud bacon ninja. Communicator. Hipster-friendly food evangelist. Friendly entrepreneur. Professional troublemaker.,4,2,3,2,8,9,2,1,4,3,1,5
+262,262,Student. Hipster-friendly travel fanatic. Zombie guru. Internet geek. Alcohol practitioner.,1,8,3,2,2,2,2,1,10,3,1,5
+265,265,Extreme coffee enthusiast. Lifelong alcohol guru. Total internet evangelist. Gamer.,3,7,2,2,2,1,2,3,6,3,1,5
+268,268,Zombieaholic. Communicator. Coffee lover. Wannabe explorer. Problem solver. Total twitter scholar.,1,4,1,2,2,3,2,1,6,2,1,5
+269,269,Tv buff. Falls down a lot. Professional pop culture specialist. Friendly coffee ninja. Subtly charming organizer. Passionate web scholar.,3,2,2,2,7,6,2,1,11,2,1,5
+277,277,Student. Hipster-friendly travel fanatic. Zombie guru. Internet geek. Alcohol practitioner.,2,3,1,2,2,8,2,3,11,3,1,5
+287,287,Avid web specialist. Lifelong zombie fan. Tv trailblazer. Social media enthusiast. Internet practitioner. Proud twitter advocate. Travel aficionado.,4,3,2,2,9,8,2,2,11,2,1,5
+289,289,Coffee advocate. Introvert. Infuriatingly humble beer nerd. Professional food practitioner.,2,2,2,2,7,9,2,2,9,1,1,5
+314,314,Tv buff. Falls down a lot. Professional pop culture specialist. Friendly coffee ninja. Subtly charming organizer. Passionate web scholar.,3,8,3,2,8,2,2,1,8,3,1,5
+318,318,Travel expert. Introvert. Pop culture guru. Professional entrepreneur. Total zombie geek. Award-winning web ninja. Proud food advocate.,3,1,1,2,10,6,2,3,1,1,1,5
+326,326,Amateur social media maven. Pop cultureaholic. Troublemaker. Internet evangelist. Typical bacon ninja. Communicator. Zombie aficionado.,4,5,2,2,9,8,2,1,11,2,1,5
+332,332,Avid web specialist. Lifelong zombie fan. Tv trailblazer. Social media enthusiast. Internet practitioner. Proud twitter advocate. Travel aficionado.,2,7,3,2,4,4,2,3,1,2,1,5
+337,337,Student. Hipster-friendly travel fanatic. Zombie guru. Internet geek. Alcohol practitioner.,4,4,1,2,7,1,2,3,2,3,1,5
+338,338,Typical travel aficionado. Extreme alcohol evangelist. Unapologetic organizer. Zombieaholic.,3,7,3,2,6,8,2,1,9,1,1,5
+343,343,Zombieaholic. Communicator. Coffee lover. Wannabe explorer. Problem solver. Total twitter scholar.,2,2,1,2,7,8,2,3,1,1,1,5
+351,351,Professional travel expert. Problem solver. Reader. Food maven. Troublemaker. Entrepreneur. Tv lover. Explorer.,3,1,1,2,4,6,2,3,8,2,1,5
+372,372,Hipster-friendly bacon fanatic. Pop culture buff. Friendly food lover. Wannabe organizer.,2,6,3,2,6,9,2,3,9,2,1,5
+375,375,Falls down a lot. Pop cultureaholic. Tv expert. Internet specialist. Web nerd. Zombie trailblazer. Alcohol evangelist.,1,6,2,2,9,3,2,2,1,3,1,5
+387,387,Hipster-friendly bacon fanatic. Pop culture buff. Friendly food lover. Wannabe organizer.,2,8,2,2,4,6,2,2,9,3,1,5
